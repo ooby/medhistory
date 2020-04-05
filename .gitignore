@@ -4,3 +4,5 @@ medhistory
 medrecords
 medhistory.zip
 *.ipynb
+.vscode
+data*.xml
